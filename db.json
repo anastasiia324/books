@@ -1,0 +1,13 @@
+{ "buecher" : [ 
+{"id": "1", "author": "Florian Nuxoll", "title":"Medienwelten 3. Arbeitsheft. Informatik", "isbn10":"3425045539", "isbn13":"9783425045535", "publisher":"Diesterweg", "publication":"07.2019"},
+{"id": "2", "author": "Grant Smith", "title":"Big Fat Notebook - Alles, was du für Informatik brauchst - Das Starterkit für angehende Programmierer", "isbn10":"3743245539", "isbn13":"9783743209800", "publisher":"Loewe / Loewe Verlag", "publication":"09.2021"},
+{"id": "3", "author": "Sascha Kersken", "title":"IT-Handbuch für Fachinformatiker*innen", "isbn10":"3836281317", "isbn13":"9783836281317", "publisher":"Rheinwerk Computing / Rheinwerk Verlag", "publication":"07.2021"},
+{"id": "4", "author": "Matthias Haun", "title":"Künftige Informatik", "isbn10":"3662647591", "isbn13":"9783662647592", "publisher":"Springer Berlin Heidelberg / Springer Vieweg / Springer, Berlin", "publication":"12.2022"},
+{"id": "5", "author": "Dirk W. Hoffmann", "title":"Theoretische Informatik", "isbn10":"3446470298", "isbn13":"9783446470293", "publisher":"Hanser Fachbuchverlag", "publication":"04.2022"},
+{"id": "6", "author": "Bernhard Hauser", "title":"Informatik. Schülerband. Für berufliche Gymnasien in Baden-Württemberg", "isbn10":"3427093956", "isbn13":"9783427093954", "publisher":"Bildungsverlag EINS", "publication":"05.2021"},
+{"id": "7", "author": "Bastian Küppers", "title":"Einführung in die Informatik", "isbn10":"3658378379", "isbn13":"9783658378370", "publisher":"Springer Fachmedien Wiesbaden / Springer Vieweg / Springer, Berlin", "publication":"10.2022"},
+{"id": "8", "author": "Bastian Hoffman", "title":"All-In-One Kalender 2023 Informatik", "isbn10":"3966379996", "isbn13":"9783966379991", "publisher":"Gröls Verlag", "publication":"07.2022"},
+{"id": "9", "author": "Rainer Hattenhauer", "title":"Informatik", "isbn10":"3868949127", "isbn13":"9783868949124", "publisher":"Pearson Studium", "publication":"08.2020"},
+{"id": "10", "author": "Jens Gallenbacher", "title":"Abenteuer Informatik", "isbn10":"3662637383", "isbn13":"9783662637388", "publisher":"Springer / Springer Berlin Heidelberg / Springer, Berlin", "publication":"10.2021"}
+]
+}
